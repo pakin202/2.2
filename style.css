@@ -1,0 +1,12 @@
+h1
+{
+    margin-top: -220px;
+    font-size: 30px;
+}
+/* Thick red border */
+hr.new3 {
+    border-top: 10px dotted rgb(144, 233, 0);
+  }
+  .table {
+    position:absolute ;
+  }
